@@ -2,4 +2,4 @@
 
 React project trying PropTypes &amp; default props
 
-I am an active student learning CSS, JS soon React and many other stuffs. Looking for a challenging job opportunity
+I am an active student learning CSS, JS, React and many other stuffs. Looking for a challenging job opportunity
